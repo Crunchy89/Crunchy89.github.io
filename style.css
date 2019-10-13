@@ -3,4 +3,16 @@
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bingkai {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.bingkai img {
+    width: 100%;
 }
