@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Game Suit</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="flex j-center ac-center ai-center">Game Suit</header>
+    <div class="score border rounded flex j-center ac-center ai-center">
+      <div class="player user">
+        User
+      </div>
+      <div class="player com">
+        Komputer
+      </div>
+      <span>
+        <p id="user_score">0</p>
+        <p>:</p>
+        <p id="com_score">0</p>
+      </span>
+    </div>
+    <div id="komputer_choice" class="flex flex-row j-center">
+      <div id="cb" class="bungkus d-none">
+        <img src="batu.png" alt="" />
+      </div>
+      <div id="cg" class="bungkus d-none">
+        <img src="gunting.png" alt="" />
+      </div>
+      <div id="ck" class="bungkus d-none">
+        <img src="kertas.png" alt="" />
+      </div>
+    </div>
+    <div class="hasil flex j-center ai-center ac-center">
+      Make Your Move !!!
+    </div>
+    <div id="user_choice" class="flex flex-row j-center">
+      <div id="ub" class="bungkus">
+        <img src="batu.png" alt="" />
+      </div>
+      <div id="ug" class="bungkus">
+        <img src="gunting.png" alt="" />
+      </div>
+      <div id="uk" class="bungkus">
+        <img src="kertas.png" alt="" />
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
