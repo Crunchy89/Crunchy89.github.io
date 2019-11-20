@@ -101,7 +101,7 @@ header {
     position: relative;
 }
 
-.score p {
+.score span p {
     font-size: 50px;
     display: inline-block;
 }
@@ -120,6 +120,11 @@ header {
 
 .com {
     right: -40px;
+}
+
+.u,
+.c {
+    font-size: 50px;
 }
 
 .bungkus {

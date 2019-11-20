@@ -1,7 +1,7 @@
-const userScore = 1;
-const comScore = 0;
+var userScore = 0;
+var comScore = 0;
 const userScore_p = document.getElementById("user_score");
-const comScore_p = document.getElementById("komputer_score");
+const comScore_p = document.getElementById("com_score");
 const score_div = document.querySelector(".score");
 const hasil_div = document.querySelector(".hasil");
 const ub_div = document.getElementById("ub");
@@ -16,32 +16,43 @@ function getComputerChoice() {
   const randomNumber = Math.floor(Math.random() * 3);
   return choices[randomNumber];
 }
+
+function win() {
+  userScore++;
+  userScore_p.innerHTML = userScore;
+}
+function lose() {
+  comScore++;
+  comScore_p.innerHTML = comScore;
+}
+
 function game(userChoice) {
   const computerChoice = getComputerChoice();
   if (computerChoice == "b") {
-    document.getElementById("cb").classList.remove("d-none");
-    document.getElementById("cg").classList.add("d-none");
-    document.getElementById("ck").classList.add("d-none");
+    cb_div.classList.remove("d-none");
+    cg_div.classList.add("d-none");
+    ck_div.classList.add("d-none");
   } else if (computerChoice == "g") {
-    document.getElementById("cg").classList.remove("d-none");
-    document.getElementById("cb").classList.add("d-none");
-    document.getElementById("ck").classList.add("d-none");
+    cg_div.classList.remove("d-none");
+    cb_div.classList.add("d-none");
+    ck_div.classList.add("d-none");
   } else if (computerChoice == "k") {
-    document.getElementById("ck").classList.remove("d-none");
-    document.getElementById("cg").classList.add("d-none");
-    document.getElementById("cb").classList.add("d-none");
+    ck_div.classList.remove("d-none");
+    cg_div.classList.add("d-none");
+    cb_div.classList.add("d-none");
   }
   switch (userChoice + computerChoice) {
     case "bg":
     case "gk":
     case "kb":
       document.querySelector(".hasil").innerHTML = "Anda Menang";
+      win();
       break;
     case "bk":
     case "gb":
     case "kg":
       document.querySelector(".hasil").innerHTML = "Anda Kalah";
-
+      lose();
       break;
     case "bb":
     case "gg":
