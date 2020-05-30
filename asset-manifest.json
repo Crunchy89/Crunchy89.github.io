@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Crunchy89.github.io/static/css/main.523f09c5.chunk.css",
+    "main.js": "/Crunchy89.github.io/static/js/main.ce76d487.chunk.js",
+    "main.js.map": "/Crunchy89.github.io/static/js/main.ce76d487.chunk.js.map",
+    "runtime-main.js": "/Crunchy89.github.io/static/js/runtime-main.c1d0639f.js",
+    "runtime-main.js.map": "/Crunchy89.github.io/static/js/runtime-main.c1d0639f.js.map",
+    "static/js/2.9c8e02f5.chunk.js": "/Crunchy89.github.io/static/js/2.9c8e02f5.chunk.js",
+    "static/js/2.9c8e02f5.chunk.js.map": "/Crunchy89.github.io/static/js/2.9c8e02f5.chunk.js.map",
+    "index.html": "/Crunchy89.github.io/index.html",
+    "precache-manifest.49bffc984a97c06090ac523be68d4f65.js": "/Crunchy89.github.io/precache-manifest.49bffc984a97c06090ac523be68d4f65.js",
+    "service-worker.js": "/Crunchy89.github.io/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/Crunchy89.github.io/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.9c8e02f5.chunk.js.LICENSE.txt": "/Crunchy89.github.io/static/js/2.9c8e02f5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Crunchy89.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1d0639f.js",
+    "static/js/2.9c8e02f5.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.ce76d487.chunk.js"
+  ]
+}
