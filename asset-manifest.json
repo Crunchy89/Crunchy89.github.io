@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/zoel/static/js/main.259c66a4.chunk.js",
-    "runtime-main.js": "/zoel/static/js/runtime-main.e8f36d6e.js",
-    "static/css/2.905cf53d.chunk.css": "/zoel/static/css/2.905cf53d.chunk.css",
-    "static/js/2.f4542951.chunk.js": "/zoel/static/js/2.f4542951.chunk.js",
-    "index.html": "/zoel/index.html",
-    "precache-manifest.0b797a1996ae917f593f5c248d236e59.js": "/zoel/precache-manifest.0b797a1996ae917f593f5c248d236e59.js",
-    "service-worker.js": "/zoel/service-worker.js",
-    "static/js/2.f4542951.chunk.js.LICENSE.txt": "/zoel/static/js/2.f4542951.chunk.js.LICENSE.txt",
-    "static/media/logo512.png": "/zoel/static/media/logo512.39e3f499.png"
+    "main.js": "/static/js/main.c5a154f0.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.ecf10ad6.js",
+    "static/css/2.905cf53d.chunk.css": "/static/css/2.905cf53d.chunk.css",
+    "static/js/2.f4542951.chunk.js": "/static/js/2.f4542951.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.2c63384a4198e6f54567457111474e74.js": "/precache-manifest.2c63384a4198e6f54567457111474e74.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.f4542951.chunk.js.LICENSE.txt": "/static/js/2.f4542951.chunk.js.LICENSE.txt",
+    "static/media/logo512.png": "/static/media/logo512.39e3f499.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8f36d6e.js",
+    "static/js/runtime-main.ecf10ad6.js",
     "static/css/2.905cf53d.chunk.css",
     "static/js/2.f4542951.chunk.js",
-    "static/js/main.259c66a4.chunk.js"
+    "static/js/main.c5a154f0.chunk.js"
   ]
 }
