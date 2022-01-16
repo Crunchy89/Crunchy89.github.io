@@ -1,27 +1,15 @@
 {
-  "files": {
-    "main.css": "/static/css/main.8427ba35.chunk.css",
-    "main.js": "/static/js/main.662e174f.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.324f0b84.js",
-    "static/css/2.cc7636c3.chunk.css": "/static/css/2.cc7636c3.chunk.css",
-    "static/js/2.faed478c.chunk.js": "/static/js/2.faed478c.chunk.js",
-    "static/js/3.12a7770e.chunk.js": "/static/js/3.12a7770e.chunk.js",
-    "static/js/4.08ce08ce.chunk.js": "/static/js/4.08ce08ce.chunk.js",
-    "static/js/5.ca9d3b7d.chunk.js": "/static/js/5.ca9d3b7d.chunk.js",
-    "static/js/6.f161dbc8.chunk.js": "/static/js/6.f161dbc8.chunk.js",
-    "index.html": "/index.html",
-    "precache-manifest.4332c7e138b729a43959ec6014ea3634.js": "/precache-manifest.4332c7e138b729a43959ec6014ea3634.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.faed478c.chunk.js.LICENSE.txt": "/static/js/2.faed478c.chunk.js.LICENSE.txt",
-    "static/media/all.min.css": "/static/media/cif-zw.961b0ec9.svg",
-    "static/media/daftar.gif": "/static/media/daftar.8f1dbdb4.gif",
-    "static/media/logo.png": "/static/media/logo.a3ae46c5.png"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.324f0b84.js",
-    "static/css/2.cc7636c3.chunk.css",
-    "static/js/2.faed478c.chunk.js",
-    "static/css/main.8427ba35.chunk.css",
-    "static/js/main.662e174f.chunk.js"
-  ]
+  "main.js": "/static/js/main.fa22e1e9.chunk.js",
+  "main.js.map": "/static/js/main.fa22e1e9.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.8963f29f.chunk.css": "/static/css/2.8963f29f.chunk.css",
+  "static/js/2.dbcaa474.chunk.js": "/static/js/2.dbcaa474.chunk.js",
+  "static/js/2.dbcaa474.chunk.js.map": "/static/js/2.dbcaa474.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.a484c83df9e031dae6b86118d969d2dc.js": "/precache-manifest.a484c83df9e031dae6b86118d969d2dc.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.8963f29f.chunk.css.map": "/static/css/2.8963f29f.chunk.css.map",
+  "static/media/all.min.css": "/static/media/cif-zw.032efc79.svg",
+  "static/media/me.png": "/static/media/me.e9718153.png"
 }
